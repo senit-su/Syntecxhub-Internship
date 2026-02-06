@@ -19,8 +19,15 @@ Built to learn basic networking and cybersecurity concepts.
 * Logging
 
 ## Usage
-python tcp_port_scanner.py
+Change directory to where your file is
+```
+cd "C:\Users\HP\Documents\Syntecxhub Internship"
+```
 
+Run the scanner
+```
+python tcp_port_scanner.py
+```
 Example input:
 ```
 Host: 127.0.0.1
