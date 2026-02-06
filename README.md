@@ -23,7 +23,6 @@ Change directory to where your file is
 ```
 cd "C:\Users\HP\Documents\Syntecxhub Internship"
 ```
-
 Run the scanner
 ```
 python tcp_port_scanner.py
